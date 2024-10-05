@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Gabriel, a junior web developer who loves programming, technologies and studying about these two wonderful things.
+Always seeking continuous learning, currently studying front-end and looking for oportunities
 
 Contact/Social Networks
 ---
